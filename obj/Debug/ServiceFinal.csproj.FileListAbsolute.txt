@@ -1,0 +1,7 @@
+C:\Users\Ajits\source\repos\ServiceFinal\bin\ServiceFinal.dll.config
+C:\Users\Ajits\source\repos\ServiceFinal\bin\ServiceFinal.dll
+C:\Users\Ajits\source\repos\ServiceFinal\bin\ServiceFinal.pdb
+C:\Users\Ajits\source\repos\ServiceFinal\obj\Debug\ServiceFinal.csprojAssemblyReference.cache
+C:\Users\Ajits\source\repos\ServiceFinal\obj\Debug\ServiceFinal.csproj.CoreCompileInputs.cache
+C:\Users\Ajits\source\repos\ServiceFinal\obj\Debug\ServiceFinal.dll
+C:\Users\Ajits\source\repos\ServiceFinal\obj\Debug\ServiceFinal.pdb
